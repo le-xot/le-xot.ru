@@ -164,15 +164,6 @@ canvas {
   color: rgb(0, 0, 0);
 }
 
-#cont2 {
-  background: #2787F5;
-}
-
-#cont2:hover {
-  background: rgb(143, 143, 143);
-  color: rgb(0, 0, 0);
-}
-
 #cont3 {
   background: #0088cc;
 }
@@ -196,17 +187,6 @@ canvas {
 }
 
 #cont5:hover {
-  background: rgb(143, 143, 143);
-  color: rgb(0, 0, 0);
-}
-
-#cont6 {
-  transition:200ms all; 
-  background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
-}
-
-#cont6:hover {
-  transition:200ms all; 
   background: rgb(143, 143, 143);
   color: rgb(0, 0, 0);
 }
